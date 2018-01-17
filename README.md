@@ -1,0 +1,6 @@
+ANGEL BOT
+
+Token
+http://101.255.95.249:6969/
+
+By WIB
